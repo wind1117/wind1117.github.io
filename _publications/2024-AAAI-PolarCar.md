@@ -2,7 +2,7 @@
 layout: archive
 title: "Exploiting Polarized Material Cues for Robust Car Detection"
 collection: publications
-permalink: /publication/2024-Exploiting-Polarized-Material-Cues-for-Robust-Car-Detection
+permalink: /publication/2024-AAAI-PolarCar
 paperurl: 'https://arxiv.org/abs/2401.02606'
 ---
 
