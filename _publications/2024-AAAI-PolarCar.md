@@ -24,7 +24,7 @@ Car detection is an important task that serves as a crucial prerequisite for man
 
 ### Downloads
 
-\[[Paper](https://arxiv.org/abs/2401.02606)\|[Pre-trained model](https://pan.baidu.com/s/1Bjb6IeQuhbt1zvypJZ-cXQ?pwd=ujzb)\|[Source code](https://github.com/wind1117/AAAI24-PCDNet)\]
+\[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27922)\|[Pre-trained model](https://pan.baidu.com/s/1Bjb6IeQuhbt1zvypJZ-cXQ?pwd=ujzb)\|[Source code](https://github.com/wind1117/AAAI24-PCDNet)\]
 
 ### Dataset
 
