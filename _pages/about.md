@@ -18,7 +18,7 @@ Publications
 **Exploiting Polarized Material Cues for Robust Car Detection**  
 **Wen Dong**, Haiyang Mei, Ziqi Wei, Ao Jin, Sen Qiu, Qiang Zhang, Xin Yang  
 The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)  
-[PDF](http://arxiv.org/abs/2401.02606)|[Project Page](/publication/2024-AAAI-PolarCar)  
+[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/27922)|[Project Page](/publication/2024-AAAI-PolarCar)  
 
 
 **Glass Segmentation using Intensity and Spectral Polarization Cues**  
