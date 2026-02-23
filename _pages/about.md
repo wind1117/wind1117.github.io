@@ -20,6 +20,11 @@ Publications
 International Journal of Computer Vision (IJCV 2026)  
 [PDF](/publication/2026-IJCV-EventDet)|[Project Page](/publication/2026-IJCV-EventDet)  
 
+**Steel Sheet Counting from an Image with a Two-Stream Network**  
+Zhiling Cui, Haiyang Mei, **Wen Dong**, Ziqi Wei, Zheng Lv, Dongsheng Zhou, Xin Yang  
+In IEEE Transactions on Instrumentation & Measurement (TIM 2025)  
+[PDF](https://ieeexplore.ieee.org/document/10887007)|[Project Page](https://cuizhiling.github.io/)  
+
 **Exploiting Polarized Material Cues for Robust Car Detection**  
 **Wen Dong**, Haiyang Mei, Ziqi Wei, Ao Jin, Sen Qiu, Qiang Zhang, Xin Yang  
 The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)  
