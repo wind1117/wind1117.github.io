@@ -3,7 +3,7 @@ layout: archive
 title: "Exploiting Polarized Material Cues for Robust Car Detection"
 collection: publications
 permalink: /publication/2024-AAAI-PolarCar
-paperurl: 'https://arxiv.org/abs/2401.02606'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/27922'
 ---
 
 Wen Dong<sup>1</sup>, Haiyang Mei<sup>1,2</sup>, Ziqi Wei<sup>3,4,\*</sup>, Ao Jin<sup>1</sup>, Sen Qiu<sup>1</sup>, Qiang Zhang<sup>1</sup>, Xin Yang<sup>1,\*</sup>  
