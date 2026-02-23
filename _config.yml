@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DONG Wen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "DONG Wen"
 description              : &description "personal description"
 url                      : https://wind1117.github.io # the base hostname & protocol for site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
