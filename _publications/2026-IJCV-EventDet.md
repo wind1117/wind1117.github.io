@@ -33,14 +33,14 @@ Both training set and testing set can be obtained via form request at [here](/pu
 
 ### Recommended citation
 
-@article{dong2026you,
-  title={You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection},
-  author={Dong, Wen and Mei, Haiyang and Ji, Yinglian and Jiang, Yutong and Wei, Ziqi and He, Shengfeng and Yang, Xin},
-  journal={International Journal of Computer Vision},
-  volume={134},
-  number={4},
-  pages={149},
-  year={2026},
-  publisher={Springer}
+@article{dong2026you,  
+  title={You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection},  
+  author={Dong, Wen and Mei, Haiyang and Ji, Yinglian and Jiang, Yutong and Wei, Ziqi and He, Shengfeng and Yang, Xin},  
+  journal={International Journal of Computer Vision},  
+  volume={134},  
+  number={4},  
+  pages={149},  
+  year={2026},  
+  publisher={Springer}  
 }
 {: .notice}
