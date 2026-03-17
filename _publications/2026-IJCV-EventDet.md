@@ -3,7 +3,7 @@ layout: archive
 title: "You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection"
 collection: publications
 permalink: /publication/2026-IJCV-EventDet
-paperurl: '.'
+paperurl: 'https://link.springer.com/article/10.1007/s11263-026-02749-8'
 ---
 
 Wen Dong<sup>1,2</sup>, Haiyang Mei<sup>1,3</sup>, Yinglian Ji<sup>1</sup>, Yutong Jiang<sup>4</sup>, Ziqi Wei<sup>5</sup>, Shengfeng He<sup>2</sup>, Xin Yang<sup>1,\*</sup>  
@@ -25,7 +25,7 @@ Cooperating intensity/RGB frames with event signals offers a practical and effec
 
 ### Downloads
 
-\[[Paper](/publication/2026-IJCV-EventDet)\|[Pre-trained model](/publication/2026-IJCV-EventDet)\|[Source code](https://github.com/wind1117/YOLIO)\]
+\[[Paper](https://link.springer.com/article/10.1007/s11263-026-02749-8)\|[Pre-trained model](/publication/2026-IJCV-EventDet)\|[Source code](https://github.com/wind1117/YOLIO)\]
 
 ### Dataset
 
@@ -33,10 +33,14 @@ Both training set and testing set can be obtained via form request at [here](/pu
 
 ### Recommended citation
 
-@InProceedings{Wen_2026IJCV_DPNet,  
-    title = {You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection},  
-    author = {Wen Dong, Haiyang Mei, Yinglian Ji, Yutong Jiang, Ziqi Wei, Shengfeng He, Xin Yang},  
-    booktitle = {International Journal of Computer Vision},  
-    year = {2026}  
+@article{dong2026you,
+  title={You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection},
+  author={Dong, Wen and Mei, Haiyang and Ji, Yinglian and Jiang, Yutong and Wei, Ziqi and He, Shengfeng and Yang, Xin},
+  journal={International Journal of Computer Vision},
+  volume={134},
+  number={4},
+  pages={149},
+  year={2026},
+  publisher={Springer}
 }
 {: .notice}
