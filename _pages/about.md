@@ -15,10 +15,15 @@ I am currently a Ph.D. candidate at Dalian University of Technology, working und
 
 Publications
 =====
+**PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors**  
+**Wen Dong**, Haiyang Mei, Yinglian Ji, Zijun Zhang, Wenyuan Zhang, Pengwei Luo, Bo Dong, Shengfeng He, Xin Yang  
+Forty-third International Conference on Machine Learning (ICML 2026)  
+[PDF](.)|[Project Page](.)  
+
 **You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection**  
 **Wen Dong**, Haiyang Mei, Yinglian Ji, Yutong Jiang, Ziqi Wei, Shengfeng He, Xin Yang  
 International Journal of Computer Vision (IJCV 2026)  
-[PDF](/publication/2026-IJCV-EventDet)|[Project Page](/publication/2026-IJCV-EventDet)  
+[PDF](https://link.springer.com/article/10.1007/s11263-026-02749-8)|[Project Page](/publication/2026-IJCV-EventDet)  
 
 **Steel Sheet Counting from an Image with a Two-Stream Network**  
 Zhiling Cui, Haiyang Mei, **Wen Dong**, Ziqi Wei, Zheng Lv, Dongsheng Zhou, Xin Yang  
