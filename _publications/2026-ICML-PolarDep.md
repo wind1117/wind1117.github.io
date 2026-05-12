@@ -24,7 +24,7 @@ Depth estimation for transparent objects remains a fundamental challenge, as RGB
 
 ### Downloads
 
-\[[Paper](/publication/2026-ICML-PolarDep)\|[Pre-trained model](/publication/2026-ICML-PolarDep)\|[Source code](/publication/2026-ICML-PolarDep)\]
+\[[Paper](/publication/2026-ICML-PolarDep)\|[Pre-trained model](/publication/2026-ICML-PolarDep)\|[Source code](https://github.com/wind1117/PolarDepth)\]
 
 ### Dataset
 
@@ -35,7 +35,7 @@ Both training set and testing set can be obtained via form request at [here](/pu
 @article{dong2026polardep,  
   title={PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors},  
   author={Dong, Wen and Mei, Haiyang and Ji, Yinglian and Zhang, Zijun and Zhang, Wenyuan and Luo Pengwei and Dong, Bo and He, Shengfeng and Yang, Xin},  
-  journal={Forty-third International Conference on Machine Learning}, 
+  journal={Forty-third International Conference on Machine Learning},  
   year={2026}, 
 }
 {: .notice}
