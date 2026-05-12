@@ -18,7 +18,7 @@ Publications
 **PolarDepth: Monocular Transparent Object Depth from Polar-Physics Priors**  
 **Wen Dong**, Haiyang Mei, Yinglian Ji, Zijun Zhang, Wenyuan Zhang, Pengwei Luo, Bo Dong, Shengfeng He, Xin Yang  
 Forty-third International Conference on Machine Learning (ICML 2026)  
-[PDF](.)|[Project Page](.)  
+[PDF](/publication/2026-ICML-PolarDep)|[Project Page](/publication/2026-ICML-PolarDep)  
 
 **You Only Look Intensity Once: Event-Driven Long-Term High-Speed Object Detection**  
 **Wen Dong**, Haiyang Mei, Yinglian Ji, Yutong Jiang, Ziqi Wei, Shengfeng He, Xin Yang  
