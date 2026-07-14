@@ -25,7 +25,7 @@ Cooperating intensity/RGB frames with event signals offers a practical and effec
 
 ### Downloads
 
-\[[Paper](https://link.springer.com/article/10.1007/s11263-026-02749-8)\|[Pre-trained model](/publication/2026-IJCV-EventDet)\|[Source code](https://github.com/wind1117/YOLIO)\]
+\[[Paper](https://link.springer.com/article/10.1007/s11263-026-02749-8)\|[Pre-trained model](https://pan.baidu.com/s/1ApLQNyJ5AmLQ5UnplwlUiQ?pwd=c4aa)\|[Source code](https://github.com/wind1117/YOLIO)\]
 
 ### Dataset
 
