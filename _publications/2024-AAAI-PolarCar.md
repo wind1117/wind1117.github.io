@@ -28,7 +28,7 @@ Car detection is an important task that serves as a crucial prerequisite for man
 
 ### Dataset
 
-Both training set and testing set can be obtained via form request at [here](http://rgbp.dluticcd.com/).
+Both training set and testing set can be obtained via form request at [here](http://iccddlut.com/dataset/rgbp).
 
 ### Recommended citation
 
