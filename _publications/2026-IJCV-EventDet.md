@@ -29,7 +29,7 @@ Cooperating intensity/RGB frames with event signals offers a practical and effec
 
 ### Dataset
 
-Both training set and testing set can be obtained via form request at [here](/publication/2026-IJCV-EventDet).
+Both training set and testing set can be obtained via form request at [here](http://iccddlut.com/dataset/frag).
 
 ### Recommended citation
 
